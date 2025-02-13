@@ -6,3 +6,4 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rviththakan/)  
 
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RViththakan&show_icons=true&theme=radical)
