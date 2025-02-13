@@ -1,5 +1,5 @@
 <!-- Banner -->
-![github-banner](https://your-image-url.com) <!-- Replace with your banner image -->
+![github-banner](https://github.com/RViththakan/RViththakan/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png) <!-- Replace with your banner image -->
 
 <div align="center">
   
