@@ -7,3 +7,11 @@
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RViththakan&show_icons=true&theme=radical)
+
+
+### 🛠 Tech Stack
+- 💻 Python | C++ | JavaScript  
+- 📊 TensorFlow | PyTorch | OpenCV  
+- 🗄 MySQL | PostgreSQL  
+- 🌐 HTML | CSS | React  
+
