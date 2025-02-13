@@ -15,3 +15,8 @@
 - 🗄 MySQL | PostgreSQL  
 - 🌐 HTML | CSS | React  
 
+<img src="https://your-image-url.com" width="400px" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RViththakan&theme=dark)
+
+
