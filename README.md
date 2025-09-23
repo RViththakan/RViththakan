@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Machine+Learning+Engineer;NLP+%26+Computer+Vision+Enthusiast;Deep+Learning+Researcher)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Machine+Learning+Engineer;Java+Developer;Deep+Learning+Researcher)
 
 </div>
 
